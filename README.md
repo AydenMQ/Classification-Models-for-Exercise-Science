@@ -7,7 +7,7 @@ Institution: Macquarie University.
 Year: 2025.
 # Model Suite
 
-This repository contains three classification models developed as part of a scientific manuscript. Each model is designed to predict binary outcomes (i.e., high or low performers) using logistic regression, random forest, and multilayer perceptron scripts. Each notebook follows a logical order and structure, providing reproducible and transparent data analysis for researchers and practitioners. This suite supports performance modelling, prediction, and cross-validation applications for various populations.
+This repository contains three classification models developed as part of a scientific manuscript. Each model is designed to predict binary outcomes (i.e., high or low performers) using logistic regression, random forest, and multilayer perceptron scripts. Each notebook follows a logical order and structure, providing reproducible and transparent data analysis for researchers and practitioners. This suite supports performance modelling, prediction, and cross-validation applications for various populations. Please note the EFA_Values.csv will contain Scores (Outcome Variable), and all other columns will be predictor variables. Please edit and adjust this. Based on the Manuscript titled "Strength, Jump Height, Landing, and Mobility Characteristics Predicts High and Low Performers of a Military Fire and Move Assessment: A Machine Learning Approach", factors derived from an exploratory factor analysis were used as the predictor variables.
 
 ## Table of Contents
 
